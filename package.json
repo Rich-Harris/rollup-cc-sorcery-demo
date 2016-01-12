@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "closurecompiler": "^1.5.2",
+    "rollup": "^0.24.1",
+    "sorcery": "^0.9.2"
+  },
+  "scripts": {
+    "build": "sh ./build.sh",
+    "prestart": "npm run build",
+    "start": "open index.html"
+  }
+}

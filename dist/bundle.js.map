@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","sources":["../src/foo.js","../src/main.js"],"sourcesContent":["export default function () {\n\tconsole.log( 'foo' );\n}\n","import foo from './foo.js';\n\nfoo();\n"],"names":[],"mappings":";;;aAAuB,IAAI;AAC3B,CAAA,CAAC,OAAO,CAAC,GAAG,EAAE,KAAK,EAAE,CAAC;AACtB,CAAA,CAAC;;CCAD,GAAG,EAAE,CAAC,;;"}
